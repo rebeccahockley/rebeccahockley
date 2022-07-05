@@ -2,9 +2,9 @@
 Hey!
 
 - 👋 I’m Rebecca! Living in Randers, DK, I am working towards becoming a Full Stack Web Developer
-- 👀 Check out my HYFTest and HYF Repository
-- 🌱 I’m currently learning Javascript, React and Nodejs
-- 💞️ I’m looking to build more small projects throughout 2022
+- 👀 Check out HYF Repository and Meal Sharing Application!
+- 🌱 I’m currently building React Apps in order to solidify my skills
+- 💞️ I’m looking to build and collaborate on more projects throughout 2022
 - 📫 Reach me on LinkedIn
 
 <!---
